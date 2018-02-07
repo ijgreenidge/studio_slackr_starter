@@ -1,4 +1,5 @@
 .Header {
+  font-family: Comic Sans MS, cursive, sans-serif;
   background-color: grey;
   height: 36px;
   padding: 5px;
@@ -24,6 +25,10 @@
 }
 
 @keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }

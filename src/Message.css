@@ -1,18 +1,22 @@
 .Message {
+  font-family: Comic Sans MS , cursive, sans-serif;
   margin: 15px;
 }
 
 .Message-author {
+  font-family: Comic Sans MS , cursive, sans-serif;
   font-weight: bold;
   font-size: 0.8rem;
 }
 
 .Message-timestamp {
+  font-family: Comic Sans MS , cursive, sans-serif;
   margin-left: 10px;
   color: #555;
   font-size: 0.6rem;
 }
 
 .Message-contents {
+  font-family: Comic Sans MS , cursive, sans-serif;
   margin: 5px 0;
 }
